@@ -36,7 +36,6 @@ items-center">
             </a>
             <h1 class="text-2xl  text-white/80">01 - Class</h1>
         </header>
-<!-- Opciones -->
         <section class= "
         p-5
         my-2
@@ -108,6 +107,7 @@ items-center">
             $vehicle3-> setAttributes('Chevrolet','Camaro',2023,'Red');
             echo $vehicle3-> getAttributes();
         ?>
+
 
         </section>
     </main>

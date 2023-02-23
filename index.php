@@ -59,7 +59,7 @@ items-center">
                   </svg>                  
                     01 Class
                 </a>
-                <a href="" class="
+                <a href="02-construct.php" class="
                 flex
                 gap-4
                 bg-black/60
@@ -77,7 +77,7 @@ items-center">
                   </svg>                  
                     02 Construct
                 </a>
-                <a href=""class="
+                <a href="03-private.php"class="
                 flex
                 gap-4
                 bg-black/60
